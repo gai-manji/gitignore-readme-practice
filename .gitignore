@@ -1,0 +1,6 @@
+# txtファイルを除外
+*.txt
+drafts/
+Janken.class
+__pycache__/
+debug.log
